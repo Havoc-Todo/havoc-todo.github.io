@@ -1,6 +1,6 @@
 webpackJsonp([1],{
 
-/***/ 640:
+/***/ 643:
 /***/ function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -9,11 +9,11 @@ webpackJsonp([1],{
 	    value: true
 	});
 	
-	var _reactRedux = __webpack_require__(386);
+	var _reactRedux = __webpack_require__(388);
 	
-	var _counter = __webpack_require__(641);
+	var _counter = __webpack_require__(644);
 	
-	var _Counter = __webpack_require__(642);
+	var _Counter = __webpack_require__(645);
 	
 	var _Counter2 = _interopRequireDefault(_Counter);
 	
@@ -66,7 +66,7 @@ webpackJsonp([1],{
 
 /***/ },
 
-/***/ 641:
+/***/ 644:
 /***/ function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -176,7 +176,7 @@ webpackJsonp([1],{
 
 /***/ },
 
-/***/ 642:
+/***/ 645:
 /***/ function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -247,4 +247,4 @@ webpackJsonp([1],{
 /***/ }
 
 });
-//# sourceMappingURL=1.counter.551e4ec92d2366de28d4.js.map
+//# sourceMappingURL=1.counter.5e0116153b16df67bf5c.js.map
